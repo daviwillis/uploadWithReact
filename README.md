@@ -11,3 +11,6 @@ Tecnologias utilizadas:
 - Styled Components
 - React Dropzone
 - MongoDB(Docker)
+
+
+![React App - Google Chrome 2022-07-14 22-16-53](https://user-images.githubusercontent.com/51123651/179133070-a6ad6f00-7e2c-4d3f-90f4-56db312b71a1.gif)
